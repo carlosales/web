@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject1", "FlaskWebProject1\FlaskWebProject1.pyproj", "{EB27DA32-EA8B-469B-B868-D526429B3562}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWebProject1", "DjangoWebProject1\DjangoWebProject1.pyproj", "{53E2E872-2C11-464B-B699-8007EF9D2CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB27DA32-EA8B-469B-B868-D526429B3562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB27DA32-EA8B-469B-B868-D526429B3562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB27DA32-EA8B-469B-B868-D526429B3562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB27DA32-EA8B-469B-B868-D526429B3562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E2E872-2C11-464B-B699-8007EF9D2CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E2E872-2C11-464B-B699-8007EF9D2CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E2E872-2C11-464B-B699-8007EF9D2CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E2E872-2C11-464B-B699-8007EF9D2CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA58CA5-35B2-409F-A943-A3EA68B30364}
+	EndGlobalSection
+EndGlobal
